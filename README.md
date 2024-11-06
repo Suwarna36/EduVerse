@@ -1,7 +1,6 @@
 
 # EduVerse - EdTech Platform
-:rocket: [Link to website][https://studynotion-frontend.vercel.app/]
-
+:rocket: 
 
 ![Main Page](images/mainpage.png)
 EduVerse is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
