@@ -129,4 +129,15 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 Access the application in your browser at `http://localhost:3000`.
 
 
+## Screenshots
+
+![1stLayout](https://github.com/user-attachments/assets/5830f966-ae39-4cbf-a083-f61cc3175086)
+
+
+![2ndLayout](https://github.com/user-attachments/assets/f21c6ae5-82a8-4eb4-b673-529dfb08a2ac)
+
+
+![3rdLayout](https://github.com/user-attachments/assets/a7404bf4-ebf7-4750-9a7f-6a951fd582f4)
+
+
 
